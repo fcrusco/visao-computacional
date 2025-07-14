@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Python settings
+*.env
+*.ini
+*.cfg
+
+# Modelos YOLO/Ultralytics
+runs/
+*.pt
+*.onnx
+
+# Arquivos de cache
+*.pickle
+*.pkl
+
+# Dados temporários
+*.tmp
+*.bak
+
+# Configs de sistema
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos gerados por PyInstaller
+dist/
+build/
+*.spec
